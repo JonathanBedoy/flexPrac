@@ -1,0 +1,35 @@
+.after {
+  display: flex;
+  flex-direction: row;
+
+
+}
+main {
+  display: flex;
+  flex-direction: column;
+}
+#nav-one {
+  order: 0;
+}
+
+#nav-two {
+  order: 0;
+}
+#one {
+  display: flex;
+  flex-direction: column;
+}
+.navcol {
+  display: flex;
+  flex-direction: row;
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+}
+ h2 {
+   display: flex;
+   background-color: orange;
+   
+ }

@@ -1,0 +1,14 @@
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+.navcol {
+  display:flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}

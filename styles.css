@@ -1,0 +1,13 @@
+header {
+  border: 5px;
+  background-color: blue;
+}
+
+footer {
+  border: 5px;
+  background-color: grey;
+}
+
+nav {
+  background-color: green;
+}
